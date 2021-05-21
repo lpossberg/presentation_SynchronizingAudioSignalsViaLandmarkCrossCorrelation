@@ -1,0 +1,10 @@
+sources/
+*.aux
+*.dvi
+*.log
+*.nav
+*.out
+*.snm
+*.gz
+*.toc
+*.bash
